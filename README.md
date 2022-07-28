@@ -1,10 +1,10 @@
 <h1 align="center"> Olá meu nome é Tiago Tinoco! </h1> 
-<img src="https://yt3.ggpht.com/p4DKgqcehwtOsOmMkRKrlB-O_H6f5di9qAPSqagDNj_gRjnNUKYDbHE8VhEV_sWSE5K8ZSOp_A=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="tiagotinoco-picture" align="right" height="500em">
+<img src="https://yt3.ggpht.com/p4DKgqcehwtOsOmMkRKrlB-O_H6f5di9qAPSqagDNj_gRjnNUKYDbHE8VhEV_sWSE5K8ZSOp_A=s600-c-k-c0x00ffffff-no-rj-rp-mo" alt="tiagotinoco-picture" align="right" height="490em" width="470em">
 
 <div align="center">
   <h3> Essas são minhas redes socíais:</h3>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img height="28px" width="130px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img height="28px" width="130px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/uxtiago/" target="_blank"><img height="28px" width="130px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-tinoco-828bb11a8/" target="_blank"><img height="28px" width="130px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
