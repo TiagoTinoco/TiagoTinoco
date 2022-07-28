@@ -11,7 +11,7 @@
   <h3>Sobre mim:</h3>
   <h4><strong>Web and Mobile Developer 📱💻<br></strong></h4>
   <p>
-    Estudo no Senac São Miguel Paulista - Curso integrado de TI<br>
+    Estudo São Miguel Paulista - Curso integrado de TI<br>
     Tenho diversos cursos feitos na alura e udemy<br>
     Meu sonho é conquistar um lugar no Mundo<br>
     Minha linguagem favorita é Flutter<br>
