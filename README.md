@@ -12,10 +12,11 @@
   <h4><strong>Web and Mobile Developer 📱💻<br></strong></h4>
   <p>
     Senac São Miguel Paulista - Curso integrado de TI<br>
+    Senac Santo Amaro - Faculdade - cursando Graduação<br>
     Tenho diversos cursos feitos na alura e udemy<br>
     Meu sonho é conquistar um lugar no Mundo<br>
     Minha linguagem favorita é Flutter<br>
-    Trabalhando na Iriz Soluções<br>
+    Trabalhando na Implementa<br>
     Diversos certificados online<br>
   </p>
 </div>
