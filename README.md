@@ -17,6 +17,7 @@
     Meu sonho é conquistar um lugar no Mundo<br>
     Minha linguagem favorita é Flutter<br>
     Trabalhando na Iriz Soluções<br>
+    e na SellOutHub<br>
     Diversos certificados online<br>
   </p>
 </div>
